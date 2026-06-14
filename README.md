@@ -1,4 +1,5 @@
-Medilink – One Health One Card
+*Medilink – One Health One Card*
+
 Overview
 
 Medilink – One Health One Card is a healthcare management system designed to provide a centralized platform for patients and doctors. The application enables secure management of medical records, appointment scheduling, electronic prescriptions, and AI-powered disease prediction. The concept of a single digital health card allows users to access their healthcare information anytime and anywhere.
