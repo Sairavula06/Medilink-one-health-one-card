@@ -427,23 +427,6 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 📞 Contact & Support
-
-**Project Lead:** [Your Name/Organization]
-
-**Email:** [your-email@example.com]
-
-**Issues & Feedback:** [GitHub Issues](https://github.com/Sairavula06/Medilink-one-health-one-card/issues)
-
-**Discussion Forum:** [GitHub Discussions](https://github.com/Sairavula06/Medilink-one-health-one-card/discussions)
-
----
 
 ## 🙏 Acknowledgments
 
